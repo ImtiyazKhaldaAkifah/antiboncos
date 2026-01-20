@@ -4,8 +4,7 @@ Aplikasi pencatat keuangan pribadi sederhana untuk membantu mahasiswa atau siapa
 
 ## 📝 Deskripsi Proyek
 
-AntiBoncos dirancang untuk memudahkan pencatatan pemasukan dan pengeluaran harian dengan antarmuka yang simpel. Proyek ini dikembangkan sebagai pemenuhan Tugas/Latihan Basis Data 2.
-
+AntiBoncos dirancang untuk memudahkan pencatatan pemasukan dan pengeluaran harian dengan antarmuka yang simpel. Proyek ini dikembangkan sebagai pemenuhan Tugas Akhir (UAS) Mata Kuliah Basis Data 2 di Universitas Darussalam Gontor.
 **Fitur Unggulan:**
 - 🔐 Login & Register User
 - 💸 Catat Pemasukan & Pengeluaran
@@ -26,11 +25,11 @@ AntiBoncos dirancang untuk memudahkan pencatatan pemasukan dan pengeluaran haria
 
 ---
 
-## 👥 Tim Pengembang
+## 👥 Tim Pengembang (Kelompok)
 
-|    Nama Mahasiswa   |        Peran        |
-| **Imtiyaz Khalda A**| Founder & Developer |
-| **Alifah Basyirah** | Co-Developer        |
-
+| Nama Mahasiswa | NIM | Peran dalam Tim |
+| :--- | :--- | :--- |
+| **Imtiyaz Khalda Akifah** | 452024618088 | Founder & Developer |
+| **Alifah Basyirah Marsani** | 452024618073 | Co-Developer |
 ---
 *Dibuat dengan ❤️ dan ☕ di depan Laptop.*
